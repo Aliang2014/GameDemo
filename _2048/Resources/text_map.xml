@@ -1,0 +1,29 @@
+<?XML version = "1.0" encoding = "UTF-8"?>
+<plist version = "1.0">
+<dict>
+<key>start</key>
+<string>新游戏</string>
+<key>menu</key>
+<string>菜单</string>
+<key>score</key>
+<string>分数</string>
+<key>high_score</key>
+<string>历史最高分</string>
+<key>resume</key>
+<string>继续</string>
+<key>save</key>
+<string>保存当前局势</string>
+<key>load</key>
+<string>读取上次局势</string>
+<key>exit</key>
+<string>退出游戏</string>>
+<key>broken1</key>
+<string>恭喜，您创造了新的纪录 </string>
+<key>broken2</key>
+<string> 分</string>
+<key>unbroken1</key>
+<string>加油，您还差 </string>
+<key>unbroken2</key>
+<string> 分打破记录</string>
+</dict>
+</plist>

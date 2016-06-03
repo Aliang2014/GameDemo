@@ -1,0 +1,17 @@
+<?XML version = "1.0" encoding = "UTF-8"?>
+<plist version = "1.0">
+<dict>
+<key>start</key>
+<string>新游戏</string>
+<key>menu</key>
+<string>菜单</string>
+<key>resume</key>
+<string>继续</string>
+<key>save</key>
+<string>保存当前局势</string>
+<key>load</key>
+<string>读取上次局势</string>
+<key>exit</key>
+<string>退出游戏</string>>
+</dict>
+</plist>

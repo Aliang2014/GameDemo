@@ -1,0 +1,13 @@
+<?XML version = "1.0" encoding = "UTF-8"?>
+<plist version = "1.0">
+<dict>
+<key>tips</key>
+<string>没有可用的存档</string>
+<key>tips_2</key>
+<string>已有存档，确定覆盖吗？</string>
+<key>tips_3</key>
+<string>是</string>
+<key>tips_4</key>
+<string>否</string>
+</dict>
+</plist>
